@@ -18,7 +18,7 @@ Restart the terminal
 
 ### Test MySQL server using terminal
 
-> mysql --user root --password
+mysql --user root --password
 
 ### Download and install MySQL workbench
 
