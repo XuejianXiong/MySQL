@@ -6,15 +6,19 @@
 
 Go to https://downloads.mysql.com/archives/community/, select macOS 14 (ARM), dowload DMG Archive, and install it.
 
-Remember the root password
+(Noted: Remember the root password)
 
 ### Setup PATH
 
+Press command + shift + . to show hidden files in Finder
+
 Open .zshrc and add export PATH="/usr/local/mysql/bin:$PATH"
+
+Restart the terminal
 
 ### Test MySQL server using terminal
 
-mysql --user root --password
+> mysql --user root --password
 
 ### Download and install MySQL workbench
 
