@@ -1,4 +1,4 @@
-USE coss24;
+USE school_db;
 
 DROP TABLE IF EXISTS Transactions;
 
