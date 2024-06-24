@@ -26,9 +26,9 @@ Got to https://dev.mysql.com/downloads/workbench/, select macOS 14 (ARM), dowloa
 
 ## Online SQL platforms
 
-1) SQLFiddle (sqlfiddle.com)
+1) SQLFiddle (https://sqlfiddle.com/)
 
-2) DB-Fiddle (db-fiddle.com)
+2) DB-Fiddle (https://www.db-fiddle.com/)
 
 
 
