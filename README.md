@@ -24,6 +24,12 @@ mysql --user root --password
 
 Got to https://dev.mysql.com/downloads/workbench/, select macOS 14 (ARM), dowload DMG Archive, and install it.
 
+## Online SQL platforms
+
+1) SQLFiddle (sqlfiddle.com)
+
+2) DB-Fiddle (db-fiddle.com)
+
 
 
 
